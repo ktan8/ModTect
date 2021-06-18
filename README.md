@@ -49,7 +49,7 @@ python ModTect.py <bamfile> <Reference Genome> <chromosome> <position_start> <po
 
 A full example is:
 ```bash
-python ModTect_1_7_5.py ./sample/CML.MALAT1.bam Homo_sapiens_assembly19.fasta 11 65273620 65273640
+python ModTect_1_7_5_1.py ./sample/CML.MALAT1.bam Homo_sapiens_assembly19.fasta 11 65273620 65273640
 ```
 NOTE: The hg19 reference genome used for the sample dataset is the hg19 Broad variant (ftp://ftp.broadinstitute.org/pub/svtoolkit/reference_metadata_bundles/Homo_sapiens_assembly19_25Jan2015.tar.gz). In this reference genome, chromosomes are labelled "1,2,3,4,..." instead of "chr1,chr2,chr3,chr4,..."
 
@@ -100,7 +100,7 @@ References
 -------------
 If you use ModTect for your work, please cite our study:
 
-Kar-Tong Tan, Ling-Wen Ding, Chan-Shuo Wu, Daniel G. Tenen, Henry Yang. Repurposing RNA-Sequencing for Discovery of RNA modifications in Clinical Cohorts. *Science Advances* (in press)
+Kar-Tong Tan, Ling-Wen Ding, Chan-Shuo Wu, Daniel G. Tenen, Henry Yang. **Repurposing RNA-Sequencing for Discovery of RNA modifications in Clinical Cohorts.** *Science Advances* (in press)
 
 
 
