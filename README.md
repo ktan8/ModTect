@@ -55,6 +55,7 @@ NOTE: The hg19 reference genome used for the sample dataset is the hg19 Broad va
 
 A few optional arguments are also provided if you like to make modifications to it.
 
+```
 [--basesToTrimFromEdge BASESTOTRIMFROMEDGE]
 [--scoreCutoff SCORECUTOFF] 
 [--minDepth MINDEPTH]
@@ -64,7 +65,7 @@ A few optional arguments are also provided if you like to make modifications to 
 [--threads THREADS]
 [--regionFile REGIONFILE]
 [--label LABEL]
-
+```
 
 
 Sample Test Run
