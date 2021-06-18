@@ -100,7 +100,7 @@ References
 -------------
 If you use ModTect for your work, please cite our study:
 
-Kar-Tong Tan, Ling-Wen Ding, Chan-Shuo Wu, Daniel G. Tenen, Henry Yang. Repurposing RNA-Sequencing for de novo Discovery of Base-pair-disrupting mRNA modifications with ModTect.
+Kar-Tong Tan, Ling-Wen Ding, Chan-Shuo Wu, Daniel G. Tenen, Henry Yang. Repurposing RNA-Sequencing for Discovery of RNA modifications in Clinical Cohorts. *Science Advances* (in press)
 
 
 
