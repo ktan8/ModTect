@@ -105,5 +105,5 @@ Kar-Tong Tan, Ling-Wen Ding, Chan-Shuo Wu, Daniel G. Tenen, Henry Yang. Repurpos
 
 Contact
 -------------
-If you have any queries or spot any bugs, please contact me at Kar-Tong Tan (ktan@g.harvard.edu)
+If you have any queries or spot any bugs, please contact me at Kar-Tong Tan (ktan@broadinstitute.org)
 
