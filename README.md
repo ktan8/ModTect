@@ -44,7 +44,7 @@ Running ModTect
 The easiest way to run ModTect is as follows
 
 ```bash
-python ModTect.py <bamfile> <Reference Genome> <chromosome> <position_start> <position_end>
+python ModTect.py <bamfile_sorted_and_indexed> <Reference Genome> <chromosome> <position_start> <position_end>
 ```
 
 A full example is:
